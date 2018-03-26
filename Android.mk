@@ -18,4 +18,15 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),berkeley)
 
+include $(CLEAR_VARS)
+LOCAL_MODULE := HwIms
+LOCAL_MODULE_OWNER := huawei
+LOCAL_SRC_FILES := proprietary/app/HwIms/HwIms.apk
+LOCAL_CERTIFICATE := platform
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := APPS
+LOCAL_DEX_PREOPT := false
+LOCAL_MODULE_SUFFIX := .apk
+include $(BUILD_PREBUILT)
+
 endif
