@@ -2694,6 +2694,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libfmq.so:system/lib/vndk-compat/libfmq.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libgatekeeper.so:system/lib/vndk-compat/libgatekeeper.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libhardware_legacy.so:system/lib/vndk-compat/libhardware_legacy.so \
+    vendor/huawei/berkeley/proprietary/lib/libhwsmartdisplay_jni.so:system/lib/libhwsmartdisplay_jni.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libjpeg.so:system/lib/vndk-compat/libjpeg.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libkeymaster1.so:system/lib/vndk-compat/libkeymaster1.so \
     vendor/huawei/berkeley/proprietary/lib/vndk-compat/libkeymaster_messages.so:system/lib/vndk-compat/libkeymaster_messages.so \
@@ -2856,6 +2857,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libfmq.so:system/lib64/vndk-compat/libfmq.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libgatekeeper.so:system/lib64/vndk-compat/libgatekeeper.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libhardware_legacy.so:system/lib64/vndk-compat/libhardware_legacy.so \
+    vendor/huawei/berkeley/proprietary/lib64/libhwsmartdisplay_jni.so:system/lib64/libhwsmartdisplay_jni.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libjpeg.so:system/lib64/vndk-compat/libjpeg.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libkeymaster1.so:system/lib64/vndk-compat/libkeymaster1.so \
     vendor/huawei/berkeley/proprietary/lib64/vndk-compat/libkeymaster_messages.so:system/lib64/vndk-compat/libkeymaster_messages.so \
