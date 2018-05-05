@@ -1,4 +1,0 @@
-service  dpeservice system/bin/displayengineserver
-    class main
-    user graphics
-    group graphics system sdcard_rw
