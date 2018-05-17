@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter berkeley,$(TARGET_DEVICE)),)
+ifneq ($(filter berkeley charlotte,$(TARGET_DEVICE)),)
 
 endif
