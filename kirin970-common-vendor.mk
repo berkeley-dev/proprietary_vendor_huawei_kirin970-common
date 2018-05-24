@@ -1944,3 +1944,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/lib64/vendor.huawei.hardware.graphics.displayeffect@1.2.so:system/lib64/vendor.huawei.hardware.graphics.displayeffect@1.2.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so:system/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so \
     vendor/huawei/kirin970-common/proprietary/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so:system/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so
+
+PRODUCT_PACKAGES += \
+    HotwordEnrollmentOKGoogleHI6403 \
+    HotwordEnrollmentXGoogleHI6403
