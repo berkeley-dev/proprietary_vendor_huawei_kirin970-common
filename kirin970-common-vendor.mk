@@ -1933,6 +1933,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/public/800_serial/scp_charging_23.png:system/etc/charger/public/800_serial/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/init/displayengineserver.rc:system/etc/init/displayengineserver.rc \
     vendor/huawei/kirin970-common/proprietary/lib/libhwsmartdisplay_jni.so:system/lib/libhwsmartdisplay_jni.so \
+    vendor/huawei/kirin970-common/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
+    vendor/huawei/kirin970-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
     vendor/huawei/kirin970-common/proprietary/lib64/libc_secshared.so:system/lib64/libc_secshared.so \
     vendor/huawei/kirin970-common/proprietary/lib64/libdisplayengineservice.so:system/lib64/libdisplayengineservice.so \
     vendor/huawei/kirin970-common/proprietary/lib64/libhuaweicust.so:system/lib64/libhuaweicust.so \
