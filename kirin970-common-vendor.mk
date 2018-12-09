@@ -16,7 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/bin/displayengineserver:system/bin/displayengineserver \
-    vendor/huawei/kirin970-common/proprietary/emui/base/global/ons.bin:system/emui/base/global/ons.bin \
+    vendor/huawei/kirin970-common/proprietary/ons.bin:system/ons.bin \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_abnormality_empty_charge.png:system/etc/charger/1080x1920/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/bg.png:system/etc/charger/1080x1920/bg.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/dcp_empty_charge.png:system/etc/charger/1080x1920/dcp_empty_charge.png \
