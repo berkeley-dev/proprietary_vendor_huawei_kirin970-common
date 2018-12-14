@@ -1947,4 +1947,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHI6403 \
-    HotwordEnrollmentXGoogleHI6403
+    HotwordEnrollmentXGoogleHI6403 \
+    chargeonlymode
